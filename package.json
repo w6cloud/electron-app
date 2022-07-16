@@ -1,14 +1,18 @@
 {
-  "displayName": "My Awesome Electron App",
-  "name": "my-awesome-electron-app",
-  "description": "Your awesome app description",
-  "version": "1.3.0",
+  "displayName": "Electron App",
+  "name": "w6-electron-app",
+  "description": "App description",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w6cloud/electron-app.git"
+  },
   "main": "./node_modules/.dev-temp-build/main.js",
   "devTempBuildFolder": "./node_modules/.dev-temp-build",
   "devServer": "http://localhost:4927",
   "author": {
-    "name": "Dalton Menezes",
-    "email": "daltonmenezes@outlook.com"
+    "name": "WEB6 Cloud",
+    "email": "hello@delay.web6.email"
   },
   "license": "MIT",
   "scripts": {
