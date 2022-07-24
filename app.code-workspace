@@ -6,21 +6,21 @@
 	],
 	"settings": {
 		"files.exclude": {
-			"**/.git": true,
-			"**/.svn": true,
-			"**/.hg": true,
-			"**/CVS": true,
-			"**/.DS_Store": true,
-			"**/Thumbs.db": true,
-			"**/node_modules": true,
-			"**/*.lock": true,
-			"tsconfig.json": true,
-			"LICENSE": true,
-			".swcrc": true,
-			".eslintrc.js": true,
 			".editorconfig": true,
+			".eslintrc.js": true,
+			".github": true,
 			".husky": true,
-			".github": true
+			".swcrc": true,
+			"**/.DS_Store": true,
+			"**/.git": true,
+			"**/.hg": true,
+			"**/.svn": true,
+			"**/*.lock": true,
+			"**/CVS": true,
+			"**/node_modules": true,
+			"**/Thumbs.db": true,
+			"LICENSE": true,
+			"tsconfig.json": true
 		}
 	},
 	"extensions": {
@@ -43,7 +43,8 @@
 			"syler.sass-indented",
 			"usernamehw.errorlens",
 			"visualstudioexptteam.vscodeintellicode",
-			"yzhang.markdown-all-in-one"
+			"xqchen.yarn-ui",
+			"yzhang.markdown-all-in-one",
 		]
 	}
 }
