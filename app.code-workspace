@@ -25,23 +25,25 @@
 	},
 	"extensions": {
 		"recommendations": [
-			"salbert.comment-ts",
-			"adam-bender.commit-message-editor",
-			"joshbolduc.commitlint",
-			"visualstudioexptteam.vscodeintellicode",
-			"ms-vscode.vscode-typescript-next",
-			"christian-kohler.npm-intellisense",
-			"esbenp.prettier-vscode",
-			"rvest.vs-code-prettier-eslint",
-			"syler.sass-indented",
-			"miclo.sort-typescript-imports",
-			"kakumei.ts-debug",
 			"aaron-bond.better-comments",
-			"usernamehw.errorlens",
+			"adam-bender.commit-message-editor",
+			"antoniormrzz.electron-snippets",
+			"christian-kohler.npm-intellisense",
+			"dbaeumer.vscode-eslint",
 			"eamodio.gitlens",
+			"esbenp.prettier-vscode",
+			"jock.svg",
+			"joshbolduc.commitlint",
+			"kakumei.ts-debug",
+			"miclo.sort-typescript-imports",
+			"ms-vscode.vscode-typescript-next",
+			"rvest.vs-code-prettier-eslint",
+			"salbert.comment-ts",
 			"snyk-security.vscode-vuln-cost",
-			"yzhang.markdown-all-in-one",
-			"antoniormrzz.electron-snippets"
+			"syler.sass-indented",
+			"usernamehw.errorlens",
+			"visualstudioexptteam.vscodeintellicode",
+			"yzhang.markdown-all-in-one"
 		]
 	}
 }
